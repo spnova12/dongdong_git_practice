@@ -7,3 +7,5 @@ c = a + b
 print(c)
 
 print('this is master')
+
+print("2 완료")
