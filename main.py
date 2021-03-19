@@ -9,3 +9,5 @@ print(c)
 print('this is master')
 
 print("2 완료")
+
+print("kkkkkkkkkkkkkk")
